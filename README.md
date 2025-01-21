@@ -1,0 +1,1 @@
+This repository contains a simple C program that demonstrates an integer overflow bug. The program initializes an integer variable x to 10 and then modifies its value using a pointer. If the new value exceeds the maximum value that can be stored in an integer variable, an integer overflow occurs.  The solution demonstrates safe ways to handle potential integer overflows.
